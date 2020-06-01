@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_inicio"
+    tools:ignore="UnusedNavigation">
+
+    <fragment
+        android:id="@+id/navigation_inicio"
+        android:name="com.sainoxsa.loginapp.Inicio"
+        android:label="@string/inicio"
+        tools:layout="@layout/fragment_inicio" >
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_galeria"
+        android:name="com.sainoxsa.loginapp.MapaFragment"
+        android:label="@string/galeria"
+        tools:layout="@layout/fragment_galeria" >
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_promo"
+        android:name="com.sainoxsa.loginapp.Promociones"
+        android:label="@string/promo"
+        tools:layout="@layout/fragment_promociones" />
+</navigation>

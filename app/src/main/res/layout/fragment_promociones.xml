@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/action_promo"
+    android:background="@color/azulnegro"
+    android:layout_height="match_parent"
+    tools:context=".Promociones">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_marginTop="30dp"
+        android:orientation="vertical">
+        <ImageView
+            android:id="@+id/free"
+            android:layout_width="match_parent"
+            android:layout_marginStart="60dp"
+            android:layout_marginEnd="60dp"
+            android:layout_height="300dp"
+            android:background="@drawable/promocion"/>
+    </LinearLayout>
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="60sp"
+    android:orientation="vertical">
+        <TextView
+            android:id="@+id/quieres"
+            android:layout_marginTop="300dp"
+            android:layout_width="wrap_content"
+            android:layout_marginStart="50dp"
+            android:layout_marginEnd="50dp"
+            android:layout_height="match_parent"
+            android:fontFamily="@font/bold"
+            android:gravity="center"
+            android:text="¿Quieres saber de nuestras promociones?"
+            android:textColor="@color/white"
+            android:textSize="30sp" />
+</LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="550sp">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/regis"
+            android:layout_margin="40dp"
+            android:background="@color/colorAccent"
+            android:foregroundGravity="center"
+            android:text="Estamos trabajando en ello"
+            android:textColor="@color/white" />
+
+
+    </LinearLayout>
+
+</FrameLayout>

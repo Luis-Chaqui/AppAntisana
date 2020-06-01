@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/inicio"
+        android:icon="@drawable/ic_inicio"
+        android:title="@string/Inicio"
+        android:checked="true"/>
+
+    <item
+        android:id="@+id/oferta"
+        android:title="@string/promociones"
+        android:icon="@drawable/ic_promociones"
+        android:checked="true"/>
+
+    <item
+        android:id="@+id/galeria"
+        android:title="@string/mapa"
+        android:icon="@drawable/ic_map"
+        android:checked="true"/>
+
+</menu>

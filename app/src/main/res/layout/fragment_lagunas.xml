@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".lugares.LagunasFragment">
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+    <!-- LAGUNA DE LA MICA-->
+   <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="10sp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20sp"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:text="@string/title_mica"
+            android:textStyle="bold"
+            android:textColor="#931B1B" />
+
+        <ImageView
+            android:id="@+id/ivMica"
+            android:src="@drawable/mica"
+            android:layout_width="wrap_content"
+            android:layout_height="250dp"
+            android:layout_marginTop="10sp"
+            android:layout_marginBottom="10sp"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20sp"
+            android:layout_marginEnd="20sp"
+            android:textColor="#020202"
+            android:text="@string/mica"/>
+
+
+    </LinearLayout>
+
+    <!-- LAGUNA DE SECAS-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20sp"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:text="@string/tit_secas"
+            android:textColor="#931B1B" />
+
+        <ImageView
+            android:id="@+id/ivSecas"
+            android:src="@drawable/secas"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10sp" />
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20sp"
+            android:layout_marginBottom="30sp"
+            android:layout_marginEnd="20sp"
+            android:layout_marginTop="20sp"
+            android:text="@string/secas"
+            android:textColor="#020202" />
+    </LinearLayout>
+
+    <!-- LAGUNA DE MUERTEPUNGO-->
+   <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20sp"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:text="@string/muertepungo"
+            android:textColor="#931B1B" />
+
+        <ImageView
+            android:id="@+id/ivMuerte"
+            android:src="@drawable/muerte"
+            android:layout_marginStart="10sp"
+            android:layout_marginEnd="10sp"
+            android:layout_width="wrap_content"
+            android:layout_height="300dp"
+            android:layout_marginTop="10sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20sp"
+           android:layout_marginBottom="40dp"
+            android:layout_marginEnd="10sp"
+            android:text="@string/muerte"
+            android:textColor="@color/azulnegro" />
+    </LinearLayout>
+
+    <!-- LAGUNA DE TIPOPUGRO-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20sp"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:text="@string/tipopugro"
+            android:textColor="#931B1B" />
+
+        <ImageView
+            android:src="@drawable/tipo"
+            android:layout_margin="10sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20sp"
+            android:layout_marginEnd="20sp"
+            android:text="@string/tipopu"
+            android:textColor="#020202" />
+
+    </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="80sp"/>
+
+    </LinearLayout>
+
+
+</ScrollView>
+
+
+
+</FrameLayout>

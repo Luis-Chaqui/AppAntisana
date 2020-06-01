@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "281789826935",
+    "firebase_url": "https://appantisana.firebaseio.com",
+    "project_id": "appantisana",
+    "storage_bucket": "appantisana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281789826935:android:57db0ae866914ca0cd4372",
+        "android_client_info": {
+          "package_name": "com.sainoxsa.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281789826935-i5jvldnvl25qn15mo04g5gc790q0ubib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sainoxsa.loginapp",
+            "certificate_hash": "14de33a11cb20f449a47a55ba8607fe2d70f8e6a"
+          }
+        },
+        {
+          "client_id": "281789826935-vmsg7uav1f41jp0aaeqc0vsot94h53o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLn3gpWFHAtUvNqJhDEosBSfI38Pk-MT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281789826935-vmsg7uav1f41jp0aaeqc0vsot94h53o9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/antisanaVolcan"
+        android:title="Antisana"
+        android:icon="@drawable/ic_action_anti"/>
+
+    <item android:id="@+id/lagunas"
+        android:title="Lagunas"
+        android:icon="@drawable/ic_action_laguna" />
+
+    <item android:id="@+id/observar"
+        android:title="Observatorios"
+        android:icon="@drawable/ic_action_observa"/>
+
+
+
+</menu>

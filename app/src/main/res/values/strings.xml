@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">AntisanaApp</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="inicio">Inicio</string>
+    <string name="galeria">Galeria</string>
+    <string name="promo">Promociones</string>
+    <string name="salir">Cerrar Sesion</string>
+    <string name="salird">Cerrando Sesion</string>
+
+    <string name="lugares">Lugares Turisticos</string>
+    <string name="actividades"><b>Actividades</b></string>
+    <string name="alojamiento"><b>Alojamiento</b></string>
+    <string name="bio"><b>Historia</b></string>
+
+    <!--Titulos-->
+
+    <string name="guaytara">HOSTERIA GUAYTARA</string>
+    <string name="hospedajes"><b>Alojamiento</b></string>
+    <string name="alimentacion"><b>Ubicacion</b></string>
+    <string name="info"><b>Informacion</b></string>
+    <string name="laguna"><b>Laguna de Secas</b></string>
+    <string name="flora"><b>Biodiversidad</b></string>
+    <string name="iniciar"><b><i>Iniciar Sesion</i></b></string>
+    <string name="foto"><b>Fotografia</b></string>
+    <string name="caminata"><b>Caminatas</b></string>
+    <string name="ciclismo"><b>Paseo en bicicleta</b></string>
+    <string name="ecalar"><b>Escalada de Montaña</b></string>
+    <string name="acampar"><b>Campamento</b></string>
+    <string name="pesca"><b>Pesca Vivencial</b></string>
+    <string name="creado"><b><i><u>Analisis de Sistemas</u></i></b></string>
+    <string name="jose">Hacienda Hosteria "Jose Maria"</string>
+    <string name="portada">Portada</string>
+
+
+    <!--descripcion-->
+    <string name="categoria"><b>Categoria</b></string>
+    <string name="telefono"><b>Teléfono</b></string>
+    <string name="email"><b>Email</b></string>
+    <string name="sitios"><b>Sitio Web</b></string>
+    <string name="direccion"><b>Dirección</b></string>
+    <string name="registro"><b>Registrate</b></string>
+    <string name="tit_secas"><b>LAGUNA DE SECAS</b></string>
+    <string name="sobre">QUIENES SOMOS</string>
+    <string name="tipopu">La laguna Tipopugro es un atractivo turístico de fácil acceso, su formación se debe principalmente a las erupciones secundarias del volcán Antisana, que por el represamiento del río Chacauco se llenaron de agua.
+        La Laguna Tipopugro se encuentra ubicada dentro de la Reserva protegida del Antisana, pertenece a la parroquia Pintag, a unos 35 Km aproximadamente de la ciudad de Quito. </string>
+    <string name="somos">Somos un grupo de estudiantes del Instituto Tecnologico Superior "Rumiñahui" que ha se ha visto en la obligación de crear
+        una Aplicacion que se enfoque en la reactivación del Turismo en el sector de Pintag. Gracis a la ayuda del Instituto este proyecto a sido elaborado con sacrificio de todos quien han integrado este equipo de trabajo
+        "Si existe un lugar donde se pueda estar tranquilo es aquí en la Reserva Ecologica Antisana"</string>
+    <!--fin de descripción-->
+
+
+    <!--Informacion-->
+    <string name="todoantisana">El Antisana es un majestuoso y misterioso volcán en la cordillera Oriental.
+        Es el núcleo de esta área protegida en cuyo interior hay páramos y bosques andinos orientales.
+        La actividad volcánica, el paso y retroceso de los glaciares y la evolución han creado en su
+        territorio paisajes impresionantes y una vida silvestre muy diversa. Como espejo del volcán está la
+        laguna de la Mica, de donde viene parte del agua de la ciudad de Quito. Aparte de la laguna,
+        hay zonas pantanosas donde el agua se anega en época lluviosa, formando lagunas estacionales como la Santa
+        Lucía o la Mauca Machay. En la reserva nacen los ríos que luego se deslizan por las laderas orientales
+        y van a alimentar los ríos Coca y Napo; en el valle del Tambo hay aguas termales. Hasta hace
+        algunos años era de difícil acceso, mas ahora es una de las áreas más fáciles de visitar desde la capital del país
+        y otras zonas aledañas. </string>
+
+
+    <string name="text_1"><b>¿Cómo llegar?</b></string>
+
+    <string name="text_2">Se toma la vía Quito – Sangolquí – Píntag. Desde el parque central de Píntag se continúa por la vía
+        hacia el volcán Antisana (apta para todo tipo de vehículo) hasta llegar al puesto de control de La Mica que se encuentra
+        a 35 kilómetros y 45 minutos de recorrido (desde Píntag).
+        Desde la vía Quito – Papallacta (73 km) se llega a la comunidad Valle del Tambo, 5 kilómetros antes de Papallacta,
+        desde donde se conecta con la conocida “Ruta del Cóndor” y la caseta de control de la reserva.</string>
+    <string name="tit_paramo"><b>PARAMO DE ALMOHADILLAS</b></string>
+
+    <string name="paramo">Todos los volcanes del Ecuador poseen páramos, y cada uno tiene características diferentes.
+        En el caso de los páramos del Antisana, existen extensos páramos de almohadillas. Estas son pequeñas plantas que crecen
+        en colonias densas y generan un microclima un poco más caliente que el circundante (que generalmente es muy frío).
+        Así se forma un “domo biotérmico” que produce un pequeño pero constante flujo de calor para abrigar las raíces y tallos
+        jóvenes.</string>
+
+    <string name="title_mica"><b>LAGUNA LA MICA</b></string>
+
+    <string name="mica">Es de origen glaciar y en la actualidad se encuentra represada, pues allí la Empresa Municipal de Agua Potable de Quito
+        construyó un reservorio gracias al cual se abastece de agua a una cuarta parte de la población de la capital.
+        La laguna es un espectáculo que mezcla la ingeniería de la represa con las bondades de la naturaleza,
+        ya que en sus frías pero nutritivas aguas nadan patos, chupiles y gallaretas. Las gaviotas, ligles, bandurrias y algunas aves migratorias
+        como los playeros de picos rectos y chorlos de patas largas vuelan y anidan en sus alrededores.</string>
+
+    <string name="title_volcan"><b>VOLCAN ANTISANA</b></string>
+
+    <string name="volcan">Sin duda es uno de las elevaciones más hermosas y singulares del Ecuador. Es ancho y sus dos cumbres casi siempre
+        están cubiertas de nieve. El volcán esta rodeado de enormes extensiones de páramos que empiezan cerca de la población de Píntag
+        al oriente de Quito.</string>
+    <string name="micas"><u><i>25 millones de metros cúbicos de líquido se almacenan en la laguna de la Mica</i></u></string>
+
+    <string name="secas">Al borde la reserva protegida del volcán Antisana, se encuentran estas lagunas donde podremos ver especies endémicas
+        de la región sobre todo aves. También es sus márgenes existen piscifactorías donde se puede pescar y degustar la trucha.
+        El área es bella de por si, pero además si puedes disfrutar de una vuelta en barquito por su interior, el viaje será redondo.</string>
+
+
+    <string name="muertepungo"><b>LAGUNA MUERTEPUNGO</b></string>
+
+    <string name="muerte">El humedal se encuentra en la zona ecológica del bosque húmedo y constituye un sitio natural de gran importancia social
+        para la población de la zona. Entre las principales funciones de este ecosistema es la de ser productora de agua para riego,
+        para la piscicultura y para el consumo humano.
+
+        Además de prestar apoyo a la educación y al turismo por encontrarse a orillas de la vía de acceso hacia la Reserva Ecológica Antisana.
+
+        En si constituye un potencial para la investigación, recreación y turismo.
+
+        La Laguna se ubica en la zona de amortiguamiento de la Reserva Ecológica Antisana por tanto incide en la conservación de la biodiversidad
+        de esta área protegida. Es una verdadera caldera de volcán en la cabecera del flujo de lava Antisanilla.
+
+        Se alimenta del caudal de agua que entrega la quebrada Falas que baja del cerro el Predicador. Las tierras altas son de baja fertilidad,
+        lo que por la pérdida de nutrientes determina el crecimiento lento del pajonal. </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="biodiversidad">BIODIVERSIDAD</string>
+    <string name="bio1">Las cifras de biodiversidad de la Reservason notables: 418 especies de aves, 73 de
+        mamíferos y 61 de an#bios y reptiles. La reserva cuenta con su propia especie de an#bio, el osornosapo de Antisana,
+        miniatura de color café que habita entre las rocas del páramo, muy raro de encontrar y en peligro de extinción.
+        En el páramo también hay osos de anteojos, cervicabras, venado de cola blanca, ciervos enanos, tapires de montaña,
+        pumas, gatos andinos, lobos, cóndores, curiquingues, gaviotas andinas, lagartijas y guagsas.</string>
+
+    <string name="condor"><b>CÓNDOR ANDINO (Vultur gryphus)</b> </string>
+    <string name="condor_contenido">En los páramos dentro y alrededor de la reserva habita la población más importante de cóndores
+        del norte de cordillera de los Andes. Se calcula que quedan cerca de 50 cóndores en estado silvestre en el Ecuador,
+        y muchos de estos utilizan los peñones de El Isco y los riscos de Antisanilla como dormideros y lugar de anidación.
+        El cóndor andino es el ave voladora más grande del planeta, símbolo de los países andinos y elemento del escudo nacional del Ecuador</string>
+
+    <string name="bio_des">Los bosques andinos cubren casi todo el resto de la reserva. El clima es frío y los árboles de cedro,
+        nogal, laurel de cera, motilón y arrayán son nudosos y retorcidos.
+        También hay helechos arbóreos y palma de ramos. Por muchas horas al día, el bosque se cubre de neblina y provee de la humedad necesaria
+        para los musgos, orquídeas, bromelias y anturios. Entre la vegetación se mueven las pavas de monte y las tangaras, fáciles de detectar
+        entre el follaje.
+        Otros pajaritos, como horneros y hormigueros, son más sigilosos y huidizos, por lo que su búsqueda puede resultar un desafío.
+        Los bosques de tierras bajas, cálidos y lluviosos, están solo al sur en la cuenca baja del Cosanga.
+        Aquí el clima es más cálido y la vegetación lo atestigua: árboles altos, rectos y frondosos, y animales compartidos con la Amazonía baja,
+        como tigrillos, monos araña y perros selváticos.</string>
+    <string name="peñon">
+El imponente peñón del Isco es como una inexpugnable muralla que oculta tras de sí el reino de los cóndores andinos del Ecuador. A tan sólo 42 kilómetros de Quito, en la Laguna de Secas, muy cerca de Píntag, viven 24 de los 64 cóndores que hay en el país. A primera hora de la mañana, cuando el sol todavía no acaba de despegar, 13 ejemplares sobrevuelan y protegen su reino.
+Los cóndores no mueven sus alas, únicamente planean con majestuosidad sobre el cielo mientras vigilan el río Elisco, que serpentea en las faldas del peñón del Isco y cuyas cristalinas aguas provienen del Antisana.</string>
+    <string name="bienvenido">Bienvenid@</string>
+    <string name="acerca">Quienes Somos</string>
+    <string name="contacto">Contactos:</string>
+    <string name="numero">0987473210</string>
+    <string name="tipopugro">LAGUNA DE TIPOPUGRO</string>
+    <string name="peñonIsco">PEÑON DEL ISCO</string>
+    <string name="Inicio">inicio</string>
+    <string name="promociones">Promociones</string>
+    <string name="mapa">Mapa</string>
+    <string name="tambo_desc">Tambo Cóndor es un proyecto ecoturístico con la finalidad de apuntar a un turismo sustentable del sector.</string>
+
+
+</resources>
